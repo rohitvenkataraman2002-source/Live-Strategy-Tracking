@@ -6,3 +6,4 @@ pymysql
 scipy
 werkzeug
 aiohttp
+numba
