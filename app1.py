@@ -10,7 +10,7 @@ import tempfile
 import shutil
 
 # Import your existing script
-import NRED1
+
 
 # Configure Streamlit page
 st.set_page_config(
