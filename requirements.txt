@@ -3,5 +3,5 @@ pandas
 numpy
 openpyxl
 pymysql
-logging
+scipy
 werkzeug
