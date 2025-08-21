@@ -9,7 +9,7 @@ import tempfile
 import shutil
 
 # Import your existing script
-import live_track.NRED1 as NRED1
+import NRED1
 
 # Configure Streamlit page
 st.set_page_config(
